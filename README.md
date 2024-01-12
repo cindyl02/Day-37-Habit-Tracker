@@ -1,4 +1,4 @@
-## Habit Tracker
+## Habit Tracker (Day 37)
 ### About
 This project uses Pixela API to keep track of daily habits. To create a new graph, update graph_params with a new GRAPH_ID, name, unit, and type. 
 
